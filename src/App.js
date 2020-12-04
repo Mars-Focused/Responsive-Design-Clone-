@@ -23,12 +23,12 @@ function App() {
           <p className="nav-item">ABOUT</p>
           <p className="nav-item">TEAM</p>
           <p className="nav-item">CONTACT</p>
-          <img
-            onClick={toggleMenu}
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hamburger_icon.svg/1024px-Hamburger_icon.svg.png"
-            className="hamburger"
-          />
         </div>
+        <img
+          onClick={toggleMenu}
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hamburger_icon.svg/1024px-Hamburger_icon.svg.png"
+          className="hamburger"
+        />
       </div>
 
       <div>
