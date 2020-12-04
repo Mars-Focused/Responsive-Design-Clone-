@@ -26,7 +26,7 @@ function App() {
         </div>
         <img
           onClick={toggleMenu}
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hamburger_icon.svg/1024px-Hamburger_icon.svg.png"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hamburger_icon_white.svg/768px-Hamburger_icon_white.svg.png"
           className="hamburger"
         />
       </div>

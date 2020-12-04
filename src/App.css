@@ -21,11 +21,11 @@ html {
 
 .nav-item {
   margin: 1vw;
+  color: white;
 }
 
 .drop-menu-button {
   color: white;
-
   justify-content: flex-end;
 }
 
